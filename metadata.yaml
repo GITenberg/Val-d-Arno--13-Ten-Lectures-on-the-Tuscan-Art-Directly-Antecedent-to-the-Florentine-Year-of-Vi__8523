@@ -1,0 +1,31 @@
+_repo: Val-d-Arno--13-Ten-Lectures-on-the-Tuscan-Art-Directly-Antecedent-to-the-Florentine-Year-of-Vi__8523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Italy -- Tuscany'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Nicholas the Pisan -- John the Pisan -- Shield and apron -- Parted
+  per pale -- Pax vobiscum -- Marble couchant -- Marble rampant -- Franchise -- The
+  Tyrrhene sea -- Fleur de lys.
+title: "Val d'Arno\r\nTen Lectures on the Tuscan Art Directly Antecedent to the Florentine\
+  \ Year of Victories; Given Before the University of Oxford in Michaelmas Term, 1873"
+url: http://www.gutenberg.org/ebooks/8523
